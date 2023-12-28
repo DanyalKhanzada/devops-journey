@@ -5,3 +5,4 @@
 - Copy test.txt to a new file called test2.txt (Not create a new file and copy. Look up how to rename a file in bash)
 ![](test2.txt.png)
 - Execute the file `execution.sh` in your terminal.
+![](execution.png)
