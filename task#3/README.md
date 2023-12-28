@@ -4,3 +4,5 @@
 
 - Launch a VM through the Cloud Console (AWS, GCP or Azure).
 - Deploy the node.js application provided in this folder on the VM.
+
+![](listen8080.png)
