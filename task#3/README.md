@@ -11,3 +11,10 @@
 
 3. Ec2 connected with local machine:
 ![](../../../../Screenshot%202023-12-29%20at%208.23.21%20PM.png)
+
+4. Install Node version Manager (NVM).
+![](../../../../Screenshot%202023-12-29%20at%208.30.29%20PM.png)
+
+5. Created a new directory - mkdir app
+
+6. 
