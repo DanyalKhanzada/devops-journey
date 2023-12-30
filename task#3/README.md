@@ -5,4 +5,9 @@
 - Launch a VM through the Cloud Console (AWS, GCP or Azure).
 - Deploy the node.js application provided in this folder on the VM.
 
-![](listen8080.png)
+1. ![](listen8080.png)
+2. Chmod to fix "Warning: unprotected Private Key File"
+![](../../../../Screenshot%202023-12-29%20at%208.22.50%20PM.png)
+
+3. Ec2 connected with local machine:
+![](../../../../Screenshot%202023-12-29%20at%208.23.21%20PM.png)
