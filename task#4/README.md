@@ -7,6 +7,8 @@ S3 is a file storage (also called an object storage). It allows you to store you
 ### Steps:
 
 - Install aws-cli (or gcloud for GCP)) in your terminal. (Documentation for aws-cli: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+![](../../../../Screenshot%202024-01-02%20at%204.09.57%20PM.png)
+
 - Create a file inside terminal called test3.txt
 - Put some text inside the file.
 - Go to your AWS account and search S3 in the search bar at the top (Cloud Storage for GCP).
