@@ -10,7 +10,9 @@ S3 is a file storage (also called an object storage). It allows you to store you
 ![](../../../../Screenshot%202024-01-02%20at%204.09.57%20PM.png)
 
 - Create a file inside terminal called test3.txt
+
 - Put some text inside the file.
 - Go to your AWS account and search S3 in the search bar at the top (Cloud Storage for GCP).
 - Create an S3 bucket (Documentation: https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)
 - Upload file to S3 from your terminal. (Do this using aws-cli)
+![](../../../../Screenshot%202024-01-02%20at%207.50.59%20PM.png)
