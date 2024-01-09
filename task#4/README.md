@@ -16,3 +16,5 @@ S3 is a file storage (also called an object storage). It allows you to store you
 - Create an S3 bucket (Documentation: https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)
 - Upload file to S3 from your terminal. (Do this using aws-cli)
 ![](../../../../Screenshot%202024-01-02%20at%207.50.59%20PM.png)
+
+Testing git push
