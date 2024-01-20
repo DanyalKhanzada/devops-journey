@@ -19,3 +19,4 @@
 - What is the use-case for private subnets vs public subnets?
 
 
+* High availability in two different AZ. us 1a - 1b
